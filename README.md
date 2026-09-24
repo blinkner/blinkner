@@ -7,7 +7,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Engenharia+Mecatrônica;Desenvolvimento+Web;Projetos+%26+Tecnologia;Construindo%2C+testando+e+aprendendo."
+  src="./profile/typing.svg"
   alt="Typing animation"
 />
 
