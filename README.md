@@ -182,10 +182,11 @@ Aplicação web para chamada de pacientes.
 
 ---
 
+### `const status = "building";`
+
+-->
 <div align="center">
 
-### `const status = "building";`
--->
 <br>
 
 <sub>Gabriel Marlon Viana · Engenharia Mecatrônica</sub>
