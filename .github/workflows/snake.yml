@@ -1,0 +1,29 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: blinkner
+          outputs: |
+            profile/snake.svg?palette=github-dark
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "chore: update contribution snake"
+          add: "profile/snake.svg"
