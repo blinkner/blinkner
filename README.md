@@ -1,27 +1,20 @@
-<!--
-  ██████╗ ███████╗██╗  ██╗███████╗██╗     ███████╗██████╗
-  ██╔══██╗██╔════╝██║  ██║██╔════╝██║     ██╔════╝██╔══██╗
-  ██║  ██║███████╗███████║█████╗  ██║     █████╗  ██████╔╝
-  ██║  ██║╚════██║██╔══██║██╔══╝  ██║     ██╔══╝  ██╔══██╗
-  ██████╔╝███████║██║  ██║███████╗███████╗███████╗██║  ██║
-  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
--->
-
 <div align="center">
 
-# Gabriel Marlon Viana
+# GABRIEL MARLON VIANA
 
 ### `Graduando em Engenharia Mecatrônica`
 
+<br>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Engenharia+Mecatrônica;Desenvolvimento+Web;Tecnologia+%26+Projetos;Construindo%2C+testando+e+aprendendo."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Engenharia+Mecatrônica;Desenvolvimento+Web;Projetos+%26+Tecnologia;Construindo%2C+testando+e+aprendendo."
   alt="Typing animation"
 />
 
-<br>
+<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blinkner)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielmarlon7)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/blinkner)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/gabrielmarlon7)
 
 </div>
 
@@ -31,16 +24,16 @@
 
 Sou **Gabriel Marlon Viana**, graduando em **Engenharia Mecatrônica**.
 
-Tenho interesse em tecnologia e desenvolvimento de projetos, explorando principalmente programação e desenvolvimento web.
+Tenho interesse em tecnologia, programação e desenvolvimento de projetos, explorando principalmente o desenvolvimento web.
 
-Atualmente, trabalho com:
+Atualmente, minhas principais tecnologias são:
 
-- Desenvolvimento web
-- Projetos pessoais
-- Programação
-- Engenharia Mecatrônica
+- HTML
+- PHP
+- JavaScript
+- Python
 
-Gosto de transformar ideias em projetos funcionais e aprender novas tecnologias ao longo do processo.
+Este perfil reúne alguns dos projetos que venho desenvolvendo enquanto estudo, experimento novas ideias e transformo conceitos em aplicações funcionais.
 
 ---
 
@@ -48,12 +41,10 @@ Gosto de transformar ideias em projetos funcionais e aprender novas tecnologias 
 
 <div align="center">
 
-### Desenvolvimento
-
-[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5"/>
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/>
 
 </div>
 
@@ -70,11 +61,13 @@ Gosto de transformar ideias em projetos funcionais e aprender novas tecnologias 
 
 **Sua Prateleira Digital**
 
-Projeto voltado ao acompanhamento de conteúdos consumidos, permitindo registrar onde você parou em episódios e leituras.
+Um projeto voltado ao acompanhamento de conteúdos consumidos, permitindo registrar onde você parou em episódios e leituras.
+
+<br>
 
 <div align="center">
 
-[![DShelf](https://img.shields.io/badge/Visitar%20projeto-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.dshelf.com.br/)
+[![DShelf](https://img.shields.io/badge/ACESSAR_PROJETO-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://www.dshelf.com.br/)
 
 </div>
 
@@ -86,9 +79,11 @@ Projeto voltado ao acompanhamento de conteúdos consumidos, permitindo registrar
 
 Aplicação web para chamada de pacientes.
 
+<br>
+
 <div align="center">
 
-[![Patient Caller](https://img.shields.io/badge/Visitar%20projeto-000000?style=for-the-badge&logo=github&logoColor=white)](https://blinkner.github.io/patient-caller-js/)
+[![Patient Caller](https://img.shields.io/badge/ACESSAR_PROJETO-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://blinkner.github.io/patient-caller-js/)
 
 </div>
 
@@ -99,20 +94,20 @@ Aplicação web para chamada de pacientes.
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=blinkner&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true"
+  src="./profile/stats.svg"
   alt="GitHub Stats"
+  width="49%"
 />
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=blinkner&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8"
+  src="./profile/top-langs.svg"
   alt="Top Languages"
+  width="49%"
 />
 
 </div>
@@ -124,8 +119,9 @@ Aplicação web para chamada de pacientes.
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=blinkner&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+  src="./profile/streak.svg"
   alt="GitHub Streak"
+  width="70%"
 />
 
 </div>
@@ -137,8 +133,9 @@ Aplicação web para chamada de pacientes.
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=blinkner&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"
-  alt="GitHub Activity Graph"
+  src="./profile/activity.svg"
+  alt="GitHub Activity"
+  width="100%"
 />
 
 </div>
@@ -150,8 +147,9 @@ Aplicação web para chamada de pacientes.
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=blinkner&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+  src="./profile/trophy.svg"
   alt="GitHub Trophies"
+  width="100%"
 />
 
 </div>
@@ -163,21 +161,22 @@ Aplicação web para chamada de pacientes.
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/blinkner/blinkner/output/github-contribution-grid-snake.svg"
-  alt="Snake animation"
+  src="./profile/snake.svg"
+  alt="Contribution Snake"
+  width="100%"
 />
 
 </div>
 
 ---
 
-## Conecte-se comigo
+## Redes sociais
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-blinkner-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blinkner)
+[![GitHub](https://img.shields.io/badge/GitHub-blinkner-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/blinkner)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@gabrielmarlon7-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielmarlon7)
+[![Instagram](https://img.shields.io/badge/Instagram-@gabrielmarlon7-000000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/gabrielmarlon7)
 
 </div>
 
@@ -189,9 +188,12 @@ Aplicação web para chamada de pacientes.
 
 <br>
 
+<sub>Gabriel Marlon Viana · Engenharia Mecatrônica</sub>
+
+<br><br>
+
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=000000"
-  width="100%"
+  src="./profile/footer.svg"
   alt="Footer"
 />
 
