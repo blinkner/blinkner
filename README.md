@@ -94,7 +94,7 @@ Aplicação web para chamada de pacientes.
 
 ---
 
-## GitHub Stats
+<!--## GitHub Stats
 
 <div align="center">
 
@@ -179,7 +179,7 @@ Aplicação web para chamada de pacientes.
 [![Instagram](https://img.shields.io/badge/Instagram-@gabrielmarlon7-000000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/gabrielmarlon7)
 
 </div>
-
+-->
 ---
 
 <div align="center">
