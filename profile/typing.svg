@@ -1,0 +1,28 @@
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="80" fill="white"/>
+
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 22px;
+      font-weight: 500;
+      fill: black;
+    }
+
+    .cursor {
+      fill: black;
+      animation: blink 0.8s infinite;
+    }
+
+    @keyframes blink {
+      0%, 45% { opacity: 1; }
+      46%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <text x="400" y="48" text-anchor="middle" class="text">
+    Engenharia Mecatrônica
+  </text>
+
+  <rect x="625" y="25" width="3" height="28" class="cursor"/>
+</svg>
